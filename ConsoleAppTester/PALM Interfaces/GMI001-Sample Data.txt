@@ -1,0 +1,9 @@
+H|43000|19254|P|A2|A|Hurricane|Hurricane Michael Hazard|1225980.00|AgencyRef01|09/01/2022|07/01/2022|06/31/2024|Hurricane Michael Hazard Mitigation Disaster Program 001|Grantor_01|GrantorName|N|GrantAwardRef01|Judy Bloom|||||
+L|LOC#112369|AccountRef#1||||||||||
+L|LOC#112369|AccountRef#2||||||||||
+A|96.029|Y|31.073|Y||||||||||
+A|96.001|N|31.007|N||||||||||
+
+
+
+

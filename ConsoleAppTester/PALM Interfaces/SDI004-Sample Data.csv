@@ -1,0 +1,7 @@
+﻿SetID,SpeedKey,Payroll Indicator,Accounting Line Type,Effective Date,Effective Status,Description,Total Lines,Sequemce Number,Percentage,GL Business Unit,"Organization
+",Account,Fund,Budget Entity,"Category
+",State Program,Grant,Contract,OA1,OA2,PC Business Unit,Project,Activity,PC Source Type,PC Category,PC Subcategory  
+11000,TEST_SPD_1,N,S,7/1/2023,A,Test 1,1,1,100,11000,1100110000,104000,32100,11000000,100000,,,,,,,,,,,
+21000,TEST_SPD_2,N,M,7/1/2023,A,Test 2,2,1,60,21000,2100000000,104000,32100,21000000,100000,,,,,,,,,,,
+21000,TEST_SPD_2,N,M,7/1/2023,A,Test 2,2,2,40,21000,2100000000,304000,32100,21000000,100000,,,,,,,,,,,
+11000,TEST_SPD_3,Y,S,7/1/2023,A,Test 3,1,1,100,11000,1100110000,104000,32100,11000000,100000,TEST_PRG_1,,,,,,,,,,

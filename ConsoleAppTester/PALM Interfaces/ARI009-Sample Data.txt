@@ -1,0 +1,26 @@
+1|43000|430000000000001|A|5|05/01/2022|05/01/2022|Staples||Staples|123456789|Y||||||||||||||||||||||
+2|05/01/2022|A
+3|1|05/01/2022|A|Main Office|Y|Y|Y|2200 SW 47nd Ave||||Miami|Dade|FL|33126|USA
+4|05/01/2022|A|N||
+5|SSN|100000002
+6|4300000001|05/01/2022|A|E||1|Y|Y|Y|Manager|John Cena|C|John.Cena@staples.com
+7|CELL|3059875244||Y
+1|43000|NEXT|A|5|05/01/2021|05/01/2021|Publix||Publix|123456712|N|123456789||||||||||||||||||||||
+2|05/01/2021|A
+3|1|05/01/2021|A|Main Office|Y|Y|Y|2100 NW 42nd Ave||||Miami|Dade|FL|33126|USA
+4|05/01/2021|A|N||
+5|SSN|100000000
+6|NEXT|05/01/2021|A|E||1|Y|Y|Y|Manager|John Doe|C|John.Doe@abccorp.com
+7|CELL|3059875262||Y
+1|43000|430000000000002|I|5|05/01/2022|05/01/2022|Walmart||Walmart|123456715|Y||||||||||||||||||||||
+1|43000|NEXT|A|5|06/01/2021|06/01/2021|Costco||Costco|123456720|Y||||||||||||||||||||||
+2|06/01/2021|A
+3|1|06/01/2021|A|Main Office|Y|Y|Y|2104 NW 45nd Ave||||Miami|Dade|FL|33126|USA
+3|2|06/01/2021|A|Local Office|N|N|N|2109 NW 48nd Ave||||Miami|Dade|FL|33126|USA
+3|3|06/01/2021|A|Office|N|N|N|2110 NW 49nd Ave||||Miami|Dade|FL|33126|USA
+4|06/01/2021|A|N||
+5|SSN|100000005
+6|NEXT|06/01/2021|A|E||1|Y|Y|Y|Manager|John Doe|C|John.Doe@staples.com
+7|CELL|3059875262||Y
+6|NEXT|06/01/2021|A|E||2|N|N|N|officer|Eric|C|John.Doe@staples.com
+7|BUSN|3059875255||Y

@@ -1,0 +1,6 @@
+H|10/12/2023|PF|||||
+D|N|412354|John|Smith|Mason|JR|800459999|HOME|200 E Gaines Street||Tallahassee|USA|Leon|32301|FL|||||||||||||||||john.smith@myfloridacfo.com|02/19/1997|M|N|Y|N|N||||||||||
+D|U|532422|Julian|Van Wrinke||||||||||||||||||||||||||||||||||||||||||||
+D|U|985732||||||||||||||WORK|113 Great Buffalo Trace||Frankfort||Franklin|40601||||||||||||||||||||||||||
+D|U|960194|||||||||||||||||||||||||||||||||N|Y||||||||||||
+T|000004

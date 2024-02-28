@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BdiData>
+	<documentControlInfo>
+		<documentInfo>
+			<docDescription>IFI Returned Items for State of FL - DFS Treasury Concentr,file setup ID 10559</docDescription>
+			<docDescription>Business date : 08/10/20</docDescription>
+			<docDescription>Run ID : MR198361SR3288391FS10559</docDescription>
+			<docID>
+				<id>20200811020143</id>
+			</docID>
+			<docModifier>State of FL - DFS Treasury Concentr</docModifier>
+			<docCreateDate>2020-08-11</docCreateDate>
+			<docCreateTime>02:01:43-0700</docCreateTime>
+			<standardVersion>1.0</standardVersion>
+			<testIndicator>0</testIndicator>
+			<resendIndicator>0</resendIndicator>
+		</documentInfo>
+		<sourceInfo>
+			<sourceName>Wells Fargo IFI</sourceName>
+			<sourceId>
+				<idOther>WellsFargoIFI</idOther>
+			</sourceId>
+		</sourceInfo>
+		<destinationInfo>
+			<destinationName>State of FL - DFS Treasury Concentr</destinationName>
+			<destinationId>
+				<idOther>STATE461</idOther>
+			</destinationId>
+		</destinationInfo>
+	</documentControlInfo>
+	<checkItemCollection>
+		<collectionInfo>
+			<description>Returned Items</description>
+			<ID>XXXXXXXXXX</ID>
+			<classification>
+				<classification>Returned Items</classification>
+			</classification>
+			<accountDataInfo>
+				<accountData>
+					<label>Reported Date</label>
+					<value>2020-08-10 </value>
+				</accountData>
+				<accountData>
+					<label>Bank ID</label>
+					<value>XXXXXXXXX </value>
+				</accountData>
+				<accountData>
+					<label>Bank Name</label>
+					<value>WELLS FARGO BANK, N.A. </value>
+				</accountData>
+				<accountData>
+					<label>State</label>
+					<value>FL </value>
+				</accountData>
+				<accountData>
+					<label>Account Number</label>
+					<value>XXXXXXXXXX </value>
+				</accountData>
+				<accountData>
+					<label>Account Type</label>
+					<value>DDA </value>
+				</accountData>
+				<accountData>
+					<label>Account Name</label>
+					<value>8119 DL HOMESTEAD 7600136 </value>
+				</accountData>
+				<accountData>
+					<label>Currency</label>
+					<value>USD </value>
+				</accountData>
+				<accountData>
+					<label>Location</label>
+					<value> </value>
+				</accountData>
+				<accountData>
+					<label>Customer ID</label>
+					<value>WELLS FARGO BANK, N.A. </value>
+				</accountData>
+			</accountDataInfo>
+		</collectionInfo>
+		<collectionSummary>
+			<totalBatchCount>0</totalBatchCount>
+			<totalItemCount>0</totalItemCount>
+			<totalCouponCount>0</totalCouponCount>
+			<totalCollectionAmount>0</totalCollectionAmount>
+			<totalCollectionImageViewsDelivered>0</totalCollectionImageViewsDelivered>
+		</collectionSummary>
+	</checkItemCollection>
+	<checkItemCollection>
+		<collectionInfo>
+			<description>Returned Items</description>
+			<ID>XXXXXXXXXX</ID>
+			<classification>
+				<classification>Returned Items</classification>
+			</classification>
+			<accountDataInfo>
+				<accountData>
+					<label>Reported Date</label>
+					<value>2020-08-10 </value>
+				</accountData>
+				<accountData>
+					<label>Bank ID</label>
+					<value>XXXXXXXXX</value>
+				</accountData>
+				<accountData>
+					<label>Bank Name</label>
+					<value>WELLS FARGO BANK, N.A. </value>
+				</accountData>
+				<accountData>
+					<label>State</label>
+					<value>FL </value>
+				</accountData>
+				<accountData>
+					<label>Account Number</label>
+					<value>XXXXXXXXXX </value>
+				</accountData>
+				<accountData>
+					<label>Account Type</label>
+					<value>DDA </value>
+				</accountData>
+				<accountData>
+					<label>Account Name</label>
+					<value>DOR REVENUE 7300000 </value>
+				</accountData>
+				<accountData>
+					<label>Currency</label>
+					<value>USD </value>
+				</accountData>
+				<accountData>
+					<label>Location</label>
+					<value> </value>
+				</accountData>
+				<accountData>
+					<label>Customer ID</label>
+					<value>WELLS FARGO BANK, N.A. </value>
+				</accountData>
+			</accountDataInfo>
+		</collectionInfo>
+		<checkItemBatch>
+			<checkItemBatchInfo>
+				<description>Returned Items</description>
+				<ID>XXXXXXXXXX</ID>
+				<classification>
+					<classification>Returned Items</classification>
+				</classification>
+				<depositDataInfo/>
+				<depositDiscDataInfo/>
+			</checkItemBatchInfo>
+			<checkItem>
+				<checkItemType>Check</checkItemType>
+				<checkAmount>252889</checkAmount>
+				<totalImageViewsDelivered>2</totalImageViewsDelivered>
+				<imageView>
+					<imageIndicator>Actual Item Present</imageIndicator>
+					<imageViewInfo>
+						<Format>
+							<Baseline>PNG</Baseline>
+						</Format>
+						<Compression/>
+						<viewSide>Front</viewSide>
+						<imageViewLocator>
+							<imageRefKey>202008100000550100333094068601_Front.PNG</imageRefKey>
+							<imageFileLocator>IFTSRTN20200811020130M002.zip</imageFileLocator>
+						</imageViewLocator>
+					</imageViewInfo>
+				</imageView>
+				<imageView>
+					<imageIndicator>Actual Item Present</imageIndicator>
+					<imageViewInfo>
+						<Format>
+							<Baseline>PNG</Baseline>
+						</Format>
+						<Compression/>
+						<viewSide>Rear</viewSide>
+						<imageViewLocator>
+							<imageRefKey>202008100000550100333094068601_Rear.PNG</imageRefKey>
+							<imageFileLocator>IFTSRTN20200811020130M002.zip</imageFileLocator>
+						</imageViewLocator>
+					</imageViewInfo>
+				</imageView>
+				<itemDataInfo>
+					<itemdata>
+						<label>Item ID</label>
+						<value>000001770020003 </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Type</label>
+						<value>PAPER </value>
+					</itemdata>
+					<itemdata>
+						<label>Disposition</label>
+						<value>Chargeback </value>
+					</itemdata>
+					<itemdata>
+						<label>Reason</label>
+						<value>A   - NSF 2nd Time </value>
+					</itemdata>
+					<itemdata>
+						<label>Debit Amount</label>
+						<value>252889 </value>
+					</itemdata>
+					<itemdata>
+						<label>Credit Amount</label>
+						<value>0 </value>
+					</itemdata>
+					<itemdata>
+						<label>Deposit Date</label>
+						<value>2020-08-05 </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Bank ID</label>
+						<value>XXXXXXXXX</value>
+					</itemdata>
+					<itemdata>
+						<label>Item Account Number</label>
+						<value>Account Number </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Serial Number</label>
+						<value>187 </value>
+					</itemdata>
+					<itemdata>
+						<label>E-Check Authorization Date</label>
+						<value>9999-01-01 </value>
+					</itemdata>
+					<itemdata>
+						<label>Redeposit Count</label>
+						<value/>
+					</itemdata>
+					<itemdata>
+						<label>Location Number</label>
+						<value>7300000 </value>
+					</itemdata>
+					<itemdata>
+						<label>Batch ID</label>
+						<value>1            </value>
+					</itemdata>
+					<itemdata>
+						<label>Deposit ID</label>
+						<value>000000000000919 </value>
+					</itemdata>
+				</itemDataInfo>
+				<optionalDataInfo/>
+				<discDataInfo/>
+			</checkItem>
+			<checkItemBatchSummary>
+				<totalItemCount>1</totalItemCount>
+				<totalCouponCount>0</totalCouponCount>
+				<totalBatchAmount>252889</totalBatchAmount>
+				<totalBatchImageViewsDelivered>2</totalBatchImageViewsDelivered>
+			</checkItemBatchSummary>
+		</checkItemBatch>
+		<checkItemBatch>
+			<checkItemBatchInfo>
+				<description>Returned Items</description>
+				<ID>XXXXXXXXXX</ID>
+				<classification>
+					<classification>Returned Items</classification>
+				</classification>
+				<depositDataInfo/>
+				<depositDiscDataInfo/>
+			</checkItemBatchInfo>
+			<checkItem>
+				<checkItemType>Check</checkItemType>
+				<checkAmount>39000</checkAmount>
+				<totalImageViewsDelivered>2</totalImageViewsDelivered>
+				<imageView>
+					<imageIndicator>Actual Item Present</imageIndicator>
+					<imageViewInfo>
+						<Format>
+							<Baseline>PNG</Baseline>
+						</Format>
+						<Compression/>
+						<viewSide>Front</viewSide>
+						<imageViewLocator>
+							<imageRefKey>202008100000550100333377578701_Front.PNG</imageRefKey>
+							<imageFileLocator>IFTSRTN20200811020130M002.zip</imageFileLocator>
+						</imageViewLocator>
+					</imageViewInfo>
+				</imageView>
+				<imageView>
+					<imageIndicator>Actual Item Present</imageIndicator>
+					<imageViewInfo>
+						<Format>
+							<Baseline>PNG</Baseline>
+						</Format>
+						<Compression/>
+						<viewSide>Rear</viewSide>
+						<imageViewLocator>
+							<imageRefKey>202008100000550100333377578701_Rear.PNG</imageRefKey>
+							<imageFileLocator>IFTSRTN20200811020130M002.zip</imageFileLocator>
+						</imageViewLocator>
+					</imageViewInfo>
+				</imageView>
+				<itemDataInfo>
+					<itemdata>
+						<label>Item ID</label>
+						<value>000002122004003 </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Type</label>
+						<value>PAPER </value>
+					</itemdata>
+					<itemdata>
+						<label>Disposition</label>
+						<value>Chargeback </value>
+					</itemdata>
+					<itemdata>
+						<label>Reason</label>
+						<value>C   - Stop Payment </value>
+					</itemdata>
+					<itemdata>
+						<label>Debit Amount</label>
+						<value>39000 </value>
+					</itemdata>
+					<itemdata>
+						<label>Credit Amount</label>
+						<value>0 </value>
+					</itemdata>
+					<itemdata>
+						<label>Deposit Date</label>
+						<value>2020-08-07 </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Bank ID</label>
+						<value>XXXXXXXXX </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Account Number</label>
+						<value>Account Number </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Serial Number</label>
+						<value>1856 </value>
+					</itemdata>
+					<itemdata>
+						<label>E-Check Authorization Date</label>
+						<value>9999-01-01 </value>
+					</itemdata>
+					<itemdata>
+						<label>Redeposit Count</label>
+						<value/>
+					</itemdata>
+					<itemdata>
+						<label>Location Number</label>
+						<value>7300000 </value>
+					</itemdata>
+					<itemdata>
+						<label>Batch ID</label>
+						<value>1            </value>
+					</itemdata>
+					<itemdata>
+						<label>Deposit ID</label>
+						<value>000000000000975 </value>
+					</itemdata>
+				</itemDataInfo>
+				<optionalDataInfo/>
+				<discDataInfo/>
+			</checkItem>
+			<checkItemBatchSummary>
+				<totalItemCount>1</totalItemCount>
+				<totalCouponCount>0</totalCouponCount>
+				<totalBatchAmount>39000</totalBatchAmount>
+				<totalBatchImageViewsDelivered>2</totalBatchImageViewsDelivered>
+			</checkItemBatchSummary>
+		</checkItemBatch>
+		<checkItemBatch>
+			<checkItemBatchInfo>
+				<description>Returned Items</description>
+				<ID>XXXXXXXXXX</ID>
+				<classification>
+					<classification>Returned Items</classification>
+				</classification>
+				<depositDataInfo/>
+				<depositDiscDataInfo/>
+			</checkItemBatchInfo>
+			<checkItem>
+				<checkItemType>Check</checkItemType>
+				<checkAmount>12690</checkAmount>
+				<totalImageViewsDelivered>2</totalImageViewsDelivered>
+				<imageView>
+					<imageIndicator>Actual Item Present</imageIndicator>
+					<imageViewInfo>
+						<Format>
+							<Baseline>PNG</Baseline>
+						</Format>
+						<Compression/>
+						<viewSide>Front</viewSide>
+						<imageViewLocator>
+							<imageRefKey>202008100000550100333377609501_Front.PNG</imageRefKey>
+							<imageFileLocator>IFTSRTN20200811020130M002.zip</imageFileLocator>
+						</imageViewLocator>
+					</imageViewInfo>
+				</imageView>
+				<imageView>
+					<imageIndicator>Actual Item Present</imageIndicator>
+					<imageViewInfo>
+						<Format>
+							<Baseline>PNG</Baseline>
+						</Format>
+						<Compression/>
+						<viewSide>Rear</viewSide>
+						<imageViewLocator>
+							<imageRefKey>202008100000550100333377609501_Rear.PNG</imageRefKey>
+							<imageFileLocator>IFTSRTN20200811020130M002.zip</imageFileLocator>
+						</imageViewLocator>
+					</imageViewInfo>
+				</imageView>
+				<itemDataInfo>
+					<itemdata>
+						<label>Item ID</label>
+						<value>000002054018003 </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Type</label>
+						<value>PAPER </value>
+					</itemdata>
+					<itemdata>
+						<label>Disposition</label>
+						<value>Chargeback </value>
+					</itemdata>
+					<itemdata>
+						<label>Reason</label>
+						<value>C   - Stop Payment </value>
+					</itemdata>
+					<itemdata>
+						<label>Debit Amount</label>
+						<value>12690 </value>
+					</itemdata>
+					<itemdata>
+						<label>Credit Amount</label>
+						<value>0 </value>
+					</itemdata>
+					<itemdata>
+						<label>Deposit Date</label>
+						<value>2020-08-07 </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Bank ID</label>
+						<value>XXXXXXXXX </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Account Number</label>
+						<value>Account Number </value>
+					</itemdata>
+					<itemdata>
+						<label>Item Serial Number</label>
+						<value>3147 </value>
+					</itemdata>
+					<itemdata>
+						<label>E-Check Authorization Date</label>
+						<value>9999-01-01 </value>
+					</itemdata>
+					<itemdata>
+						<label>Redeposit Count</label>
+						<value/>
+					</itemdata>
+					<itemdata>
+						<label>Location Number</label>
+						<value>7300000 </value>
+					</itemdata>
+					<itemdata>
+						<label>Batch ID</label>
+						<value>1            </value>
+					</itemdata>
+					<itemdata>
+						<label>Deposit ID</label>
+						<value>000000000000975 </value>
+					</itemdata>
+				</itemDataInfo>
+				<optionalDataInfo/>
+				<discDataInfo/>
+			</checkItem>
+			<checkItemBatchSummary>
+				<totalItemCount>1</totalItemCount>
+				<totalCouponCount>0</totalCouponCount>
+				<totalBatchAmount>12690</totalBatchAmount>
+				<totalBatchImageViewsDelivered>2</totalBatchImageViewsDelivered>
+			</checkItemBatchSummary>
+		</checkItemBatch>
+		<collectionSummary>
+			<totalBatchCount>3</totalBatchCount>
+			<totalItemCount>3</totalItemCount>
+			<totalCouponCount>0</totalCouponCount>
+			<totalCollectionAmount>304579</totalCollectionAmount>
+			<totalCollectionImageViewsDelivered>6</totalCollectionImageViewsDelivered>
+		</collectionSummary>
+	</checkItemCollection>
+	<documentSummaryInfo>
+		<totalCollectionCount>134</totalCollectionCount>
+		<totalBatchCount>4</totalBatchCount>
+		<totalItemCount>4</totalItemCount>
+		<totalCouponCount>0</totalCouponCount>
+		<totalDocumentAmount>308264</totalDocumentAmount>
+		<totalDocumentImageViewsDelivered>8</totalDocumentImageViewsDelivered>
+	</documentSummaryInfo>
+</BdiData>

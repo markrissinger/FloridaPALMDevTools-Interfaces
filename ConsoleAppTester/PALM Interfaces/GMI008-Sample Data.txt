@@ -1,0 +1,2 @@
+H|43000|19234|F|A1|A|Hurricane Michael Haz Mit|Hurricane Michael Hazard Mitigation Disaster Program|20432.89|' '|07/01/2021|07/01/2021|07/31/2021|Hurricane Michael Hazard Mitigation Disaster Program|SUP0000001|GrantAwardRef01|Judy Bloom|
+L|LOC#123458|AccountRef#1|96.029|Y|96.029|Y

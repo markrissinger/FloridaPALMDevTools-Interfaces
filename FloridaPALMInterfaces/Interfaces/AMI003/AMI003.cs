@@ -1,15 +1,9 @@
-﻿using Microsoft.VisualBasic;
-using System.ComponentModel.DataAnnotations;
-using System.Runtime.InteropServices.JavaScript;
-using System.Security.Claims;
-using System.Xml.Linq;
+﻿using System.ComponentModel.DataAnnotations;
 using static FloridaPALMInterfaces.Helpers.InterfaceConstants;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace FloridaPALMInterfaces.Interfaces.AMI002
 {
- [Attributes.InterfaceIdentification(Id = "AMI003", Name = "Outbound Asset Extract")]
- [Attributes.InterfaceDirection(Direction = InterfaceDirections.Outbound)]
+ [Attributes.InterfaceIdentification("AMI003", "Outbound Asset Extract", InterfaceDirections.Outbound)]
  public class AMI003
  {
  [MaxLength(1)]

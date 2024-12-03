@@ -4,7 +4,7 @@ using static FloridaPALMInterfaces.Helpers.InterfaceConstants;
 namespace FloridaPALMInterfaces.Interfaces.AMI002
 {
     [Attributes.InterfaceIdentification("AMI002", "Inbound Asset Transfers and Disposal Request", InterfaceDirections.Inbound)]
-    public class AMI002 : PalmInterface
+    public class AMI002Detail : PalmInterface
     {
         [Attributes.InterfaceFieldPosition(1)]
         [MaxLength(1)]
@@ -16,7 +16,7 @@ namespace FloridaPALMInterfaces.Interfaces.AMI002
         public required string InterfaceType { get; set; }
 
         [Attributes.InterfaceFieldPosition(3)]
-        [MaxLength(5)]
+        [StringLength(5)]
         public required string BusinessUnit { get; set; }
 
         [Attributes.InterfaceFieldPosition(4)]

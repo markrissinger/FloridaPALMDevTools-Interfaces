@@ -31,9 +31,7 @@ namespace FloridaPALMInterfaces.Interfaces
             // Children Records
             var childrenRecordTypes = this.GetType()
                 .GetProperties(BindingFlags.Instance | BindingFlags.Public)
-                .Where(prop => !Attribute.IsDefined(prop, typeof(InterfaceFieldPosition)));
-
-            var childrenLines = new StringBuilder();
+                .Where(prop => Attribute.IsDefined(prop, typeof(ChildRecord)));
 
             foreach (var childrenRecordType in childrenRecordTypes)
             {
